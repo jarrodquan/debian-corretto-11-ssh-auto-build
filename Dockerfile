@@ -1,4 +1,4 @@
-FROM debian-corretto-11:latest
+FROM jarrodquan/debian-corretto-11:latest
 
 ARG ROOT_PASSWORD=123456
 
